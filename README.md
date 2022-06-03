@@ -18,4 +18,6 @@ Links to IFS files stored on Pokemon Unite servers
 1.5.1.6: https://gcloud.pokemon-unitepgame.com/dolphin/669535640/1169/dyncures/1.5.1.6/669535640_1169_1.5.1.6_20220524022251_1609438764_dyncures.ifs
 
 Any urls to different versions can be added by pull request here:
-https://github.com/nutterthanos/PokemonUniteIFS/pulls/new
+https://github.com/nutterthanos/PokemonUniteIFS/pulls/
+Or by issues here: 
+https://github.com/nutterthanos/PokemonUniteIFS/issues/new
