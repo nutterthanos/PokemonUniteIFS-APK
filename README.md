@@ -1,9 +1,23 @@
 # PokemonUniteIFS
 Links to IFS files stored on Pokemon Unite servers
 
+1.1.1.2: http://gcloud.pokemon-unitepgame.com/dolphin/669535640/1049/dyncures/1.1.1.2/669535640_1049_1.1.1.2_20210718054056_1207244938_dyncures.ifs
+
 1.1.1.3: https://gcloud.pokemon-unitepgame.com/dolphin/669535640/1049/dyncures/1.1.1.3/669535640_1049_1.1.1.3_20210728034057_429023211_dyncures.ifs
 
 1.1.1.4: https://gcloud.pokemon-unitepgame.com/dolphin/669535640/1049/dyncures/1.1.1.4/669535640_1049_1.1.1.4_20210803102029_1337126982_dyncures.ifs
+
+1.1.1.6: http://gcloud.pokemon-unitepgame.com/dolphin/669535640/1049/dyncures/1.1.1.6/669535640_1049_1.1.1.6_20210817124131_331944325_dyncures.ifs
+
+1.2.1.4: http://gcloud.pokemon-unitepgame.com/dolphin/669535640/1171/dyncures/1.2.1.4/669535640_1171_1.2.1.4_20210926150251_374028660_dyncures.ifs
+
+1.2.1.7: https://gcloud.pokemon-unitepgame.com/dolphin/669535640/1169/dyncures/1.2.1.7/669535640_1169_1.2.1.7_20211012023025_160985465_dyncures.ifs
+
+1.2.1.8: http://gcloud.pokemon-unitepgame.com/dolphin/669535640/1169/dyncures/1.2.1.8/669535640_1169_1.2.1.8_20211019073612_1235755367_dyncures.ifs
+
+1.2.1.9: https://gcloud.pokemon-unitepgame.com/dolphin/669535640/1169/dyncures/1.2.1.9/669535640_1169_1.2.1.9_20211020080859_1127562780_dyncures.ifs
+
+1.3.1.5: https://gcloud.pokemon-unitepgame.com/dolphin/669535640/1169/dyncures/1.3.1.5/669535640_1169_1.3.1.5_20211210075844_100916639_dyncures.ifs
 
 1.4.1.7: https://gcloud.pokemon-unitepgame.com/dolphin/669535640/1169/dyncures/1.4.1.7/669535640_1169_1.4.1.7_20220312021754_2063499243_dyncures.ifs
 
@@ -16,6 +30,15 @@ Links to IFS files stored on Pokemon Unite servers
 1.5.1.5: https://gcloud.pokemon-unitepgame.com/dolphin/669535640/1169/dyncures/1.5.1.5/669535640_1169_1.5.1.5_20220516143031_659811449_dyncures.ifs
 
 1.5.1.6: https://gcloud.pokemon-unitepgame.com/dolphin/669535640/1169/dyncures/1.5.1.6/669535640_1169_1.5.1.6_20220524022251_1609438764_dyncures.ifs
+
+Apk Update 1.2.1.2: http://gcloud.pokemon-unitepgame.com/dolphin/669535640/3215/apkupdate/1.2.1.2/669535640_3215_1.2.1.2_20210907014915_1259849431_apkupdate.json
+
+Apk Update 1.3.1.0: http://gcloud.pokemon-unitepgame.com/dolphin/669535640/3215/apkupdate/1.3.1.0/669535640_3215_1.3.1.0_20211117015505_1080039845_apkupdate.json
+
+Apk Update 1.4.1.0: http://gcloud.pokemon-unitepgame.com/dolphin/669535640/3215/apkupdate/1.4.1.0/669535640_3215_1.4.1.0_20211217105127_536251733_apkupdate.json
+
+Apk Update 1.5.1.0: http://gcloud.pokemon-unitepgame.com/dolphin/669535640/3215/apkupdate/1.5.1.0/669535640_3215_1.5.1.0_20220401040154_2052590545_apkupdate.json
+
 
 Any urls to different versions can be added by pull request here:
 https://github.com/nutterthanos/PokemonUniteIFS/pulls/
