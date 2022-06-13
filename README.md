@@ -45,5 +45,3 @@ Apk Update JSON 1.5.1.0: https://gcloud.pokemon-unitepgame.com/dolphin/669535640
 
 Any urls to different versions can be added by pull request here:
 https://github.com/nutterthanos/PokemonUniteIFS-APK/pulls/
-Or by issues here: 
-https://github.com/nutterthanos/PokemonUniteIFS-APK/issues/new
