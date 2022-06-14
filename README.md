@@ -1,4 +1,4 @@
-# PokemonUniteIFS
+# PokemonUniteIFS/APK
 Links to IFS/APK files stored on Pokemon Unite servers
 
 IFS FILES:
