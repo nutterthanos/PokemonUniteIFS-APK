@@ -33,7 +33,11 @@ IFS Update 1.5.1.5: https://gcloud.pokemon-unitepgame.com/dolphin/669535640/1169
 
 IFS Update 1.5.1.6: https://gcloud.pokemon-unitepgame.com/dolphin/669535640/1169/dyncures/1.5.1.6/669535640_1169_1.5.1.6_20220524022251_1609438764_dyncures.ifs
 
-IFS Update 1.5.1.7: https://gcloud.pokemon-unitepgame.com/dolphin/669535640/1169/dyncures/1.5.1.7/669535640_1169_1.5.1.7_20220616070335_763463646_dyncures.ifs
+IFS Update 1.5.2.7: https://gcloud.pokemon-unitepgame.com/dolphin/669535640/1169/dyncures/1.5.1.7/669535640_1169_1.5.1.7_20220616070335_763463646_dyncures.ifs
+
+IFS Update 1.5.2.8: https://gcloud.pokemon-unitepgame.com/dolphin/669535640/1169/dyncures/1.5.1.8/669535640_1169_1.5.1.8_20220629122116_742492743_dyncures.ifs
+
+IFS Update 1.5.1.1 Public Beta: https://gcloud-exp.pokemon-unitepgame.com/dolphin/100000009/1324/dyncures/1.5.1.1/100000009_1324_1.5.1.1_20220627014100_175627398_dyncures.ifs
 
 Apk JSONS:
 
@@ -44,6 +48,8 @@ Apk Update JSON 1.3.1.0: https://gcloud.pokemon-unitepgame.com/dolphin/669535640
 Apk Update JSON 1.4.1.0: https://gcloud.pokemon-unitepgame.com/dolphin/669535640/3215/apkupdate/1.4.1.0/669535640_3215_1.4.1.0_20211217105127_536251733_apkupdate.json
 
 Apk Update JSON 1.5.1.0: https://gcloud.pokemon-unitepgame.com/dolphin/669535640/3215/apkupdate/1.5.1.0/669535640_3215_1.5.1.0_20220401040154_2052590545_apkupdate.json
+
+1.5.1.1 Public Beta Apk: https://test99bcbe878kb8947.pokemon-unitepgame.com/publictest/publictest_lite1.5.1.1.r458358_36.shell.signed.apk
 
 Any urls to different versions can be added by pull request here:
 https://github.com/nutterthanos/PokemonUniteIFS-APK/pulls/
