@@ -41,19 +41,29 @@ IFS Update Public Beta:
 
 IFS Update 1.5.1.1 Public Beta: https://gcloud-exp.pokemon-unitepgame.com/dolphin/100000009/1324/dyncures/1.5.1.1/100000009_1324_1.5.1.1_20220627014100_175627398_dyncures.ifs
 
-Apk JSONS:
+APK JSONS:
 
-Apk Update JSON 1.2.1.2: https://gcloud.pokemon-unitepgame.com/dolphin/669535640/3215/apkupdate/1.2.1.2/669535640_3215_1.2.1.2_20210907014915_1259849431_apkupdate.json
+APK Update JSON 1.2.1.2: https://gcloud.pokemon-unitepgame.com/dolphin/669535640/3215/apkupdate/1.2.1.2/669535640_3215_1.2.1.2_20210907014915_1259849431_apkupdate.json
 
-Apk Update JSON 1.3.1.0: https://gcloud.pokemon-unitepgame.com/dolphin/669535640/3215/apkupdate/1.3.1.0/669535640_3215_1.3.1.0_20211117015505_1080039845_apkupdate.json
+APK Update JSON 1.3.1.0: https://gcloud.pokemon-unitepgame.com/dolphin/669535640/3215/apkupdate/1.3.1.0/669535640_3215_1.3.1.0_20211117015505_1080039845_apkupdate.json
 
-Apk Update JSON 1.4.1.0: https://gcloud.pokemon-unitepgame.com/dolphin/669535640/3215/apkupdate/1.4.1.0/669535640_3215_1.4.1.0_20211217105127_536251733_apkupdate.json
+APK Update JSON 1.4.1.0: https://gcloud.pokemon-unitepgame.com/dolphin/669535640/3215/apkupdate/1.4.1.0/669535640_3215_1.4.1.0_20211217105127_536251733_apkupdate.json
 
-Apk Update JSON 1.5.1.0: https://gcloud.pokemon-unitepgame.com/dolphin/669535640/3215/apkupdate/1.5.1.0/669535640_3215_1.5.1.0_20220401040154_2052590545_apkupdate.json
+APK Update JSON 1.5.1.0: https://gcloud.pokemon-unitepgame.com/dolphin/669535640/3215/apkupdate/1.5.1.0/669535640_3215_1.5.1.0_20220401040154_2052590545_apkupdate.json
 
 APK Update:
 
-1.5.1.1 Public Beta Apk: https://test99bcbe878kb8947.pokemon-unitepgame.com/publictest/publictest_lite1.5.1.1.r458358_36.shell.signed.apk
+APK Update 1.2.1.2: https://gcloud.pokemon-unitepgame.com/dolphin/669535640/3215/apkupdate/1.2.1.2/669535640_3215_1.2.1.2_20210907014915_996719404_apkupdate.apk
+
+APK Update 1.3.1.0: https://gcloud.pokemon-unitepgame.com/dolphin/669535640/3215/apkupdate/1.3.1.0/669535640_3215_1.3.1.0_20211117015505_1987849062_apkupdate.apk
+
+APK Update 1.4.1.0: https://gcloud.pokemon-unitepgame.com/dolphin/669535640/3215/apkupdate/1.4.1.0/669535640_3215_1.4.1.0_20211217105127_1147057842_apkupdate.apk
+
+APK Update 1.5.1.0: https://gcloud.pokemon-unitepgame.com/dolphin/669535640/3215/apkupdate/1.5.1.0/669535640_3215_1.5.1.0_20220401040154_1699684156_apkupdate.apk
+
+APK Update Public Beta:
+
+1.5.1.1 Public Beta APK: https://test99bcbe878kb8947.pokemon-unitepgame.com/publictest/publictest_lite1.5.1.1.r458358_36.shell.signed.apk
 
 Any urls to different versions can be added by pull request here:
 https://github.com/nutterthanos/PokemonUniteIFS-APK/pulls/
