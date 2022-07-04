@@ -1,7 +1,7 @@
 # PokemonUniteIFS/APK
 Links to IFS/APK files stored on Pokemon Unite servers
 
-IFS FILES:
+IFS Update:
 
 IFS Update 1.1.1.2: https://gcloud.pokemon-unitepgame.com/dolphin/669535640/1049/dyncures/1.1.1.2/669535640_1049_1.1.1.2_20210718054056_1207244938_dyncures.ifs
 
