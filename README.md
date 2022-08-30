@@ -43,6 +43,8 @@ IFS Update 1.6.1.3: https://gcloud.pokemon-unitepgame.com/dolphin/669535640/1169
 
 IFS Update 1.6.1.4: https://gcloud.pokemon-unitepgame.com/dolphin/669535640/1169/dyncures/1.6.1.4/669535640_1169_1.6.1.4_20220803070354_204199101_dyncures.ifs
 
+IFS Update 1.6.1.5: https://gcloud.pokemon-unitepgame.com/dolphin/669535640/1169/dyncures/1.6.1.5/669535640_1169_1.6.1.5_20220824080207_633996504_dyncures.ifs
+
 IFS Update Public Beta:
 
 IFS Update 1.5.1.1 Public Beta: https://gcloud-exp.pokemon-unitepgame.com/dolphin/100000009/1324/dyncures/1.5.1.1/100000009_1324_1.5.1.1_20220627014100_175627398_dyncures.ifs
@@ -50,6 +52,8 @@ IFS Update 1.5.1.1 Public Beta: https://gcloud-exp.pokemon-unitepgame.com/dolphi
 IFS Update 1.5.1.2 Public Beta: https://gcloud-exp.pokemon-unitepgame.com/dolphin/100000009/1324/dyncures/1.5.1.2/100000009_1324_1.5.1.2_20220713071448_1877321455_dyncures.ifs
 
 IFS Update 1.6.1.3 Public Beta: https://gcloud-exp.pokemon-unitepgame.com/dolphin/100000009/1324/dyncures/1.6.1.3/100000009_1324_1.6.1.3_20220819113110_1993194726_dyncures.ifs
+
+IFS Update 1.6.1.4 Public Beta: https://gcloud-exp.pokemon-unitepgame.com/dolphin/100000009/1324/dyncures/1.6.1.4/100000009_1324_1.6.1.4_20220824115950_727557123_dyncures.ifs
 
 APK JSONS:
 
