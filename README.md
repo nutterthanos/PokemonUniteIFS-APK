@@ -45,6 +45,8 @@ IFS Update 1.6.1.4: https://gcloud.pokemon-unitepgame.com/dolphin/669535640/1169
 
 IFS Update 1.6.1.5: https://gcloud.pokemon-unitepgame.com/dolphin/669535640/1169/dyncures/1.6.1.5/669535640_1169_1.6.1.5_20220824080207_633996504_dyncures.ifs
 
+IFS Update 1.7.1.3: https://gcloud.pokemon-unitepgame.com/dolphin/669535640/1169/dyncures/1.7.1.3/669535640_1169_1.7.1.3_20220905102302_1597068401_dyncures.ifs
+
 IFS Update Public Beta:
 
 IFS Update 1.5.1.1 Public Beta: https://gcloud-exp.pokemon-unitepgame.com/dolphin/100000009/1324/dyncures/1.5.1.1/100000009_1324_1.5.1.1_20220627014100_175627398_dyncures.ifs
@@ -54,6 +56,8 @@ IFS Update 1.5.1.2 Public Beta: https://gcloud-exp.pokemon-unitepgame.com/dolphi
 IFS Update 1.6.1.3 Public Beta: https://gcloud-exp.pokemon-unitepgame.com/dolphin/100000009/1324/dyncures/1.6.1.3/100000009_1324_1.6.1.3_20220819113110_1993194726_dyncures.ifs
 
 IFS Update 1.6.1.4 Public Beta: https://gcloud-exp.pokemon-unitepgame.com/dolphin/100000009/1324/dyncures/1.6.1.4/100000009_1324_1.6.1.4_20220824115950_727557123_dyncures.ifs
+
+IFS Update 1.6.1.5 Public Beta: https://gcloud-exp.pokemon-unitepgame.com/dolphin/100000009/1324/dyncures/1.6.1.5/100000009_1324_1.6.1.5_20220901024849_1494173493_dyncures.ifs
 
 APK JSONS:
 
@@ -66,6 +70,8 @@ APK Update JSON 1.4.1.0: https://gcloud.pokemon-unitepgame.com/dolphin/669535640
 APK Update JSON 1.5.1.0: https://gcloud.pokemon-unitepgame.com/dolphin/669535640/3215/apkupdate/1.5.1.0/669535640_3215_1.5.1.0_20220401040154_2052590545_apkupdate.json
 
 APK Update JSON 1.6.1.0: https://gcloud.pokemon-unitepgame.com/dolphin/669535640/3215/apkupdate/1.6.1.0/669535640_3215_1.6.1.0_20220624020500_1116810333_apkupdate.json
+
+APK Update JSON 1.7.1.0: https://gcloud.pokemon-unitepgame.com/dolphin/669535640/3215/apkupdate/1.7.1.0/669535640_3215_1.7.1.0_20220805064606_1370645980_apkupdate.json
 
 APK JSONS Public Beta:
 
@@ -82,6 +88,8 @@ APK Update 1.4.1.0: https://gcloud.pokemon-unitepgame.com/dolphin/669535640/3215
 APK Update 1.5.1.0: https://gcloud.pokemon-unitepgame.com/dolphin/669535640/3215/apkupdate/1.5.1.0/669535640_3215_1.5.1.0_20220401040154_1699684156_apkupdate.apk
 
 APK Update 1.6.1.0: https://gcloud.pokemon-unitepgame.com/dolphin/669535640/3215/apkupdate/1.6.1.0/669535640_3215_1.6.1.0_20220624020500_123395572_apkupdate.apk
+
+APK Update 1.7.1.0: https://gcloud.pokemon-unitepgame.com/dolphin/669535640/3215/apkupdate/1.7.1.0/669535640_3215_1.7.1.0_20220805064606_1812003122_apkupdate.apk
 
 APK Update Public Beta:
 
