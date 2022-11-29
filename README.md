@@ -49,6 +49,8 @@ IFS Update 1.7.1.3: https://gcloud.pokemon-unitepgame.com/dolphin/669535640/1169
 
 IFS Update 1.7.1.6: https://gcloud.pokemon-unitepgame.com/dolphin/669535640/1169/dyncures/1.7.1.6/669535640_1169_1.7.1.6_20220922110216_2086995496_dyncures.ifs
 
+IFS Update 1.7.1.11: https://gcloud.pokemon-unitepgame.com/dolphin/669535640/1169/dyncures/1.7.1.11/669535640_1169_1.7.1.11_20221115024854_1153379184_dyncures.ifs
+
 IFS Update Public Beta:
 
 IFS Update 1.5.1.1 Public Beta: https://gcloud-exp.pokemon-unitepgame.com/dolphin/100000009/1324/dyncures/1.5.1.1/100000009_1324_1.5.1.1_20220627014100_175627398_dyncures.ifs
@@ -77,7 +79,9 @@ APK Update JSON 1.7.1.0: https://gcloud.pokemon-unitepgame.com/dolphin/669535640
 
 APK JSONS Public Beta:
 
-http://gcloud-exp.pokemon-unitepgame.com/dolphin/100000009/3315/apkupdate/1.6.1.0/100000009_3315_1.6.1.0_20220815083645_1965345635_apkupdate.json
+APK Update 1.6.1.0 JSON: https://gcloud-exp.pokemon-unitepgame.com/dolphin/100000009/3315/apkupdate/1.6.1.0/100000009_3315_1.6.1.0_20220815083645_1965345635_apkupdate.json
+
+APK Update 1.8.1.0 JSON: https://gcloud-exp.pokemon-unitepgame.com/dolphin/100000009/3315/apkupdate/1.8.1.0/100000009_3315_1.8.1.0_20221107071651_1223500996_apkupdate.json
 
 APK Update:
 
@@ -100,6 +104,10 @@ APK Update Public Beta:
 1.6.1.0 Public Beta APK: https://gcloud-exp.pokemon-unitepgame.com/dolphin/100000009/3315/apkupdate/1.6.1.0/100000009_3315_1.6.1.0_20220815083645_164305274_apkupdate.apk
 
 1.6.1.2 Public Beta APK: https://test99bcbe878kb8947.pokemon-unitepgame.com/publictest/publictest_lite1.6.1.2.r479536_47.shell.signed.apk
+
+1.8.1.0 Public Beta APK: https://gcloud-exp.pokemon-unitepgame.com/dolphin/100000009/3315/apkupdate/1.8.1.0/100000009_3315_1.8.1.0_20221107071651_466459907_apkupdate.apk
+
+1.8.1.1 Public Beta APK: https://test99bcbe878kb8947.pokemon-unitepgame.com/publictest/publictest_lite1.8.1.1.r508660_8.shell.signed.apk
 
 Any urls to different versions can be added by pull request here:
 https://github.com/nutterthanos/PokemonUniteIFS-APK/pulls/
