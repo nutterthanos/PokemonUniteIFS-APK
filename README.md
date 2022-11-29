@@ -105,6 +105,8 @@ APK Update Public Beta:
 
 1.6.1.2 Public Beta APK: https://test99bcbe878kb8947.pokemon-unitepgame.com/publictest/publictest_lite1.6.1.2.r479536_47.shell.signed.apk
 
+1.7.1.1 Public Beta APK: https://test99bcbe878kb8947.pokemon-unitepgame.com/publictest/publictest_lite1.7.1.1.r494392_59.shell.signed.apk
+
 1.8.1.0 Public Beta APK: https://gcloud-exp.pokemon-unitepgame.com/dolphin/100000009/3315/apkupdate/1.8.1.0/100000009_3315_1.8.1.0_20221107071651_466459907_apkupdate.apk
 
 1.8.1.1 Public Beta APK: https://test99bcbe878kb8947.pokemon-unitepgame.com/publictest/publictest_lite1.8.1.1.r508660_8.shell.signed.apk
