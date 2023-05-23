@@ -115,5 +115,7 @@ APK Update Public Beta:
 
 1.9.1.1 Public Beta APK: https://test99bcbe878kb8947.pokemon-unitepgame.com/publictest/publictest_lite_1.9.1.1.r537946_32.shell.signed.apk
 
+1.10.1.1 Public Beta APK: https://test99bcbe878kb8947.pokemon-unitepgame.com/publictest/publictest_lite_1.10.1.1.r576758_50.shell.signed.apk
+
 Any urls to different versions can be added by pull request here:
 https://github.com/nutterthanos/PokemonUniteIFS-APK/pulls/
