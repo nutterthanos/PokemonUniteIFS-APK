@@ -79,6 +79,8 @@ APK Update JSON 1.6.1.0: https://gcloud.pokemon-unitepgame.com/dolphin/669535640
 
 APK Update JSON 1.7.1.0: https://gcloud.pokemon-unitepgame.com/dolphin/669535640/3215/apkupdate/1.7.1.0/669535640_3215_1.7.1.0_20220805064606_1370645980_apkupdate.json
 
+APK Update JSON 1.12.1.0: https://gcloud.pokemon-unitepgame.com/dolphin/669535640/3215/apkupdate/1.12.1.0/669535640_3215_1.12.1.0_20230815120552_1992925962_apkupdate.json
+
 APK JSONS Public Beta:
 
 APK Update 1.6.1.0 JSON: https://gcloud-exp.pokemon-unitepgame.com/dolphin/100000009/3315/apkupdate/1.6.1.0/100000009_3315_1.6.1.0_20220815083645_1965345635_apkupdate.json
